@@ -4,5 +4,5 @@ Form Validation in HTML means to check that the user’s entered credential – 
 
 The Login Form Validation in HTML & JavaScript, as you can see on the image preview, there is a login form that holds login text, two input fields, a login button, etc. at first those login errors are not shown but when the user clicks on the login button without entering their email & password then there is appear these errors with shake effect.
 
-![Form Validation](https://github.com/OSBensaid/Form-Validation-With-HTML-CSS-JavaScript/blob/main/img/Screenshot.png?raw=true)
+![Form Validation](https://github.com/OSBensaid/Form-Validation-With-HTML-CSS-JavaScript/blob/main/img/image.png)
 
